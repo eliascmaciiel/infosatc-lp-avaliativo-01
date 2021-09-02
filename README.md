@@ -12,6 +12,8 @@
 
 - Atividade avaliativa 01 da disciplina de linguagem de programação do curso técnico de informática SATC 2021
 
-- Desenvolvido em Python <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- Desenvolvido em Python
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 - Enjoy it!! o/
