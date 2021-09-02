@@ -2,9 +2,7 @@
 
 ## Me chamo Elias Maciel!
 
-## About me
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww1.satc.edu.br%2Fparcelamento_satc%2F&psig=AOvVaw0J3aDqmOxUwTlMyHBl7o3w&ust=1630691535842000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMCnjrXt4PICFQAAAAAdAAAAABAD" />
+![image](https://www1.satc.edu.br/parcelamento_satc/assets/img/logotipo_horizontal.png)
 
 - Curso de Informática
 
