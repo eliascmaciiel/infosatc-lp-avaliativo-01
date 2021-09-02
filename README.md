@@ -4,7 +4,7 @@
 
 ## About me
 
-![Alt text](/relative/path/to/logotipo_horizontal.png?raw=true)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww1.satc.edu.br%2Fparcelamento_satc%2F&psig=AOvVaw0J3aDqmOxUwTlMyHBl7o3w&ust=1630691535842000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMCnjrXt4PICFQAAAAAdAAAAABAD" />
 
 - Curso de Informática
 
