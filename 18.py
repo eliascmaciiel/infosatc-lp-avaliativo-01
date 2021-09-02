@@ -2,4 +2,4 @@ print("Olá, seja muito bem vindo, peço que você digite um número em m³ e ir
 
 M = float(input("Numero em m³: "))
 L =  1000*M
-print ("{} m³ em litros é: {}:".format(M,L))
+print ("{} m³ em litros é: {} litros".format(M,L))
