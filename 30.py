@@ -2,8 +2,8 @@ print("Olá, seja muito bem vindo, nesse programa iremos calcular quantos dólar
 
 real = float(input("Digite um valor em R$: "))
 
-cotacao = 5,16
+cotacao = 5.16
 
 dolar = real / cotacao
 
-print("Você com {} R$ teria {} $ ".format(cotacao,real,dolar))
+print("Você com {} R$ teria {} $ ".format(real,dolar))
